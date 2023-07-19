@@ -1,0 +1,16 @@
+img{
+    width:50%;
+    height: 50%;
+}
+.card{
+    background-color: #272d40;
+    height: 200px;
+    width: 250px;
+}
+
+.card h2{
+    color:white
+}
+h3{
+    color:white
+}
